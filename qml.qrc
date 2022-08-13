@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Qml/QmlOrganizer.qml</file>
+        <file>Qml/QmlButton.qml</file>
+        <file>Qml/Task.qml</file>
+    </qresource>
+</RCC>
